@@ -2,8 +2,8 @@ deployment:
   production:
     branch: master
     heroku:
-      appname: my-ci-app-01  
+      appname: my-ci-app01  
   # staging:
   #   branch: staging
   #   heroku:
-  #     appname: my-ci-app-01
+  #     appname: my-ci-app01
